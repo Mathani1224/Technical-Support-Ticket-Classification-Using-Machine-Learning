@@ -1,1 +1,1 @@
-# Technical-Support-Ticket-Classification-Using-Machine-Learning
+The Technical Support Ticket Classification Using Machine Learning project aims to categorize support tickets based on issue type, priority, and resolution time. Using natural language processing (NLP) and ML algorithms, the model automates ticket classification, improving response efficiency. This helps tech support teams prioritize and resolve issues faster, enhancing customer service and workflow management.
